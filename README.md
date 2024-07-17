@@ -1,4 +1,4 @@
-# Course basic programming for medical physics
+# Course: basic programming for medical physics
 
 -  Class 1: basic programming
 -  Class 2: scientific programming
